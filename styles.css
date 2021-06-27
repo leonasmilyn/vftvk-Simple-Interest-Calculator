@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+    position: relative;
+}
+
+.si1 {
+    background-color: white;
+    margin: 20px;
+    padding: 50px;
+    border-radius: 35px;
+    position: absolute;
+}
+
+h1 {
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 250%;
+}
+
+.si2 {
+    margin: 25px;
+}
+
+table {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+}
+
+td {
+    padding: 10px;
+}
+
+#principal {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80%;
+}
+
+select {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80%;
+}
+
+button {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 125%;
+    margin: 10px;
+    padding: 10px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 125%;
+    margin: 10px;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 175%;
+}
